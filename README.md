@@ -20,3 +20,4 @@ void main()
     printf("the given number %d\n is not prime",n);
   }
 }
+thiru
